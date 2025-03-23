@@ -1,0 +1,84 @@
+{
+    "works": {
+        "task1": { 
+            "title": "Task 1 : Basic HTML Styling", 
+            "url": "works/task1/index.html",
+            "description": "Learn the basics of HTML styling, including text formatting and colors."
+        },
+        "task2": { 
+            "title": "Task 2 : CSS Hover", 
+            "url": "works/task2/index.html",
+            "description": "CSS hover functionality to enhance UI interactions."
+        },
+        "task3": { 
+            "title": "Task 3 : JavaScript Basics", 
+            "url": "works/task3/index.html",
+            "description": "Introduction to JavaScript syntax and basic operations."
+        },
+        "task4": { 
+            "title": "Task 4 : Calculator with JavaScript", 
+            "url": "works/task4/index.html",
+            "description": "Create a simple calculator using JavaScript."
+        },
+        "task5": { 
+            "title": "Task 5 : Console Output with Operators", 
+            "url": "works/task5/index.html",
+            "description": "Practice using JavaScript operators and displaying output in the console."
+        },
+        "task6": { 
+            "title": "Task 6 : String Operation", 
+            "url": "works/task6/String Operation.html",
+            "description": "Perform various string operations like concatenation and manipulation."
+        },
+        "task7": { 
+            "title": "Task 7 : Grade Calculator", 
+            "url": "works/task7/calculator.html",
+            "description": "A JavaScript-based grade calculator for students."
+        },
+        "task8": { 
+            "title": "Task 8 : Call Stack Array", 
+            "url": "works/task8/call stack.html",
+            "description": "Understand how the JavaScript call stack and arrays work together."
+        },
+        "task9": { 
+            "title": "Task 9 : Generating Star Figure with Loops", 
+            "url": "works/task9/loops.html",
+            "description": "Generate star patterns using loops in JavaScript."
+        },
+        "task10": { 
+            "title": "Task 10 : Generating Star Figure with Loops by Changing Colors", 
+            "url": "works/task10/star_loops.html",
+            "description": "Create colorful star patterns using JavaScript loops."
+        },
+        "task11": { 
+            "title": "Task 11 : While & Do-While Loops", 
+            "url": "works/task11/while_do_while.html",
+            "description": "Understand and implement while and do-while loops in JavaScript."
+        },
+        "task12": { 
+            "title": "Task 12 : Class Objects in JavaScript", 
+            "url": "works/task12/class_object.html",
+            "description": "Learn how to create and use class objects in JavaScript."
+        },
+        "task13": { 
+            "title": "Task 13 : Class Objects 2", 
+            "url": "works/task13/class_object.html",
+            "description": "Advanced concepts in JavaScript class objects."
+        },
+        "task15": { 
+            "title": "Task 15 : Age Calculator", 
+            "url": "works/task15/Age_calculate.html",
+            "description": "Calculate a person's age based on their birthdate."
+        },
+        "task16": { 
+            "title": "Task 16 : Bootstrap Framework", 
+            "url": "works/task16/bootstrap_checkout.html",
+            "description": "Introduction to Bootstrap framework for responsive web design."
+        },
+        "task17": { 
+            "title": "Task 17 : JSON Array of Objects", 
+            "url": "works/task17/task_json_iframe/index.html",
+            "description": "Understand and manipulate JSON arrays of objects."
+        }
+    }
+}
